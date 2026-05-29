@@ -1,0 +1,1124 @@
+[
+  {
+    "DeviceTitle": "OnePlus Nord 6",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2793",
+        "ProductName": "CPH2793IN",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "taste",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2795",
+        "ProductName": "CPH2795",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "taste",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2795",
+        "ProductName": "CPH2795EEA",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "taste",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Turbo 6/6V",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "PLU110",
+        "ProductName": "PLU110",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PLY110",
+        "ProductName": "PLY110",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Ace 6",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "PLQ110",
+        "ProductName": "PLQ110",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 15T",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "PLZ110",
+        "ProductName": "PLZ110",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 15R/Ace 6T",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2767",
+        "ProductName": "CPH2767IN",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2769",
+        "ProductName": "CPH2769",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2769",
+        "ProductName": "CPH2769EEA",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PLR110",
+        "ProductName": "PLR110",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 15",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2745",
+        "ProductName": "CPH2745IN",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 2,
+        "Gray": 0,
+        "ReqMode": "taste",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2747",
+        "ProductName": "CPH2747",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "taste",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2747",
+        "ProductName": "CPH2747EEA",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PLK110",
+        "ProductName": "PLK110",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 13T/S",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2723",
+        "ProductName": "CPH2723IN",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 2,
+        "Gray": 0,
+        "ReqMode": "taste",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PKX110",
+        "ProductName": "PKX110",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 13",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2649",
+        "ProductName": "CPH2649IN",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 2,
+        "Gray": 0,
+        "ReqMode": "taste",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2653",
+        "ProductName": "CPH2653",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2653",
+        "ProductName": "CPH2653EEA",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PJZ110",
+        "ProductName": "PJZ110",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 13R/Ace 5",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2691",
+        "ProductName": "CPH2691IN",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 2,
+        "Gray": 0,
+        "ReqMode": "taste",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2645",
+        "ProductName": "CPH2645",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "taste",
+        "Imei": "",
+        "Proxy": "",
+        "FullModelName": "CPH2645_11.F.23_2230_202510311834"
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2645",
+        "ProductName": "CPH2645EEA",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": "",
+        "FullModelName": "CPH2645_11.C.66_1660_202510060015"
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PKG110",
+        "ProductName": "PKG110",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 12",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2573",
+        "ProductName": "CPH2573IN",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2581",
+        "ProductName": "CPH2581",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2581",
+        "ProductName": "CPH2581EEA",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PJD110",
+        "ProductName": "PJD110",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 12R/Ace 3",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2585",
+        "ProductName": "CPH2585IN",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2609",
+        "ProductName": "CPH2609",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2609",
+        "ProductName": "CPH2609EEA",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PJE110",
+        "ProductName": "PJE110",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 11",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2447",
+        "ProductName": "CPH2447",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2449",
+        "ProductName": "CPH2449",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2449",
+        "ProductName": "CPH2449EEA",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PHB110",
+        "ProductName": "PHB110",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 11R/Ace 2",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2487",
+        "ProductName": "CPH2487",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PHK110",
+        "ProductName": "PHK110",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 10 Pro",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "NE2211",
+        "ProductName": "NE2211",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "NE2213",
+        "ProductName": "NE2213",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "NE2213",
+        "ProductName": "NE2213EEA",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "NE2210",
+        "ProductName": "NE2210",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 10T/Ace Pro",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2413",
+        "ProductName": "CPH2413",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2415",
+        "ProductName": "CPH2415",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2415",
+        "ProductName": "CPH2415",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PGP110",
+        "ProductName": "PGP110",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus 10R",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2423",
+        "ProductName": "CPH2423",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2411",
+        "ProductName": "CPH2411",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PGKM10",
+        "ProductName": "PGKM10",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Open/OPPO Find N3",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2551",
+        "ProductName": "CPH2551IN",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2551",
+        "ProductName": "CPH2551EEA",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2499",
+        "ProductName": "CPH2499",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "PHN110",
+        "ProductName": "PHN110",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Nord 4",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2661",
+        "ProductName": "CPH2661IN",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2663",
+        "ProductName": "CPH2663",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2663",
+        "ProductName": "CPH2663EEA",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Nord 3",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2491",
+        "ProductName": "CPH2491",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2493",
+        "ProductName": "CPH2493",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2493",
+        "ProductName": "CPH2493EEA",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Nord CE 4",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2613",
+        "ProductName": "CPH2613IN",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Nord CE 3",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2569",
+        "ProductName": "CPH2569",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Nord CE 4 Lite",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2619",
+        "ProductName": "CPH2619IN",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2621",
+        "ProductName": "CPH2621",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2621",
+        "ProductName": "CPH2621EEA",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Nord CE 3 Lite",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "CPH2467",
+        "ProductName": "CPH2467",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "CPH2465",
+        "ProductName": "CPH2465",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "CPH2465",
+        "ProductName": "CPH2465EEA",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Pad 2 Pro",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "OPD2413",
+        "ProductName": "OPD2413",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Pad 2/Pad Pro",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "OPD2403",
+        "ProductName": "OPD2403IN",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "GLO",
+        "ProductModel": "OPD2403",
+        "ProductName": "OPD2403",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "OPD2403",
+        "ProductName": "OPD2403EEA",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "OPD2404",
+        "ProductName": "OPD2404",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Pad",
+    "Models": [
+      {
+        "Region": "IN/GLO/EU",
+        "ProductModel": "OPD2203",
+        "ProductName": "OPD2203",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Ace Racing Edition",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "PGZ110",
+        "ProductName": "PGZ110",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Ace 3V",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "PJF110",
+        "ProductName": "PJF110",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Ace 2V",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "PHP110",
+        "ProductName": "PHP110",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Ace 5 Pro",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "PKR110",
+        "ProductName": "PKR110",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Ace 3 Pro",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "PJX110",
+        "ProductName": "PJX110",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "OnePlus Ace 2 Pro",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "PJA110",
+        "ProductName": "PJA110",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  }
+]

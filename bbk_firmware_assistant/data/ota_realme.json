@@ -1,0 +1,1227 @@
+[
+  {
+    "DeviceTitle": "Realme Neo8",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX8899",
+        "ProductName": "RMX8899",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme GT8",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX6699",
+        "ProductName": "RMX6699",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme GT8 Pro",
+    "Models": [
+      {
+        "Region": "RU",
+        "ProductModel": "RMX5210",
+        "ProductName": "RMX5210RU",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 2,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "MEA",
+        "ProductModel": "RMX5210",
+        "ProductName": "RMX5210",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "SA",
+        "ProductModel": "RMX5210",
+        "ProductName": "RMX5210",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "IN",
+        "ProductModel": "RMX5210",
+        "ProductName": "RMX5210IN",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "RMX5210",
+        "ProductName": "RMX5210EEA",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "RMX5200",
+        "ProductName": "RMX5200",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme Neo7x",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX5071",
+        "ProductName": "RMX5071",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme Neo7 SE",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX5080",
+        "ProductName": "RMX5080",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme Neo7",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX5060",
+        "ProductName": "RMX5060",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme GT7 Global",
+    "Models": [
+      {
+        "Region": "TR",
+        "ProductModel": "RMX5061",
+        "ProductName": "RMX5061TR",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "RU",
+        "ProductModel": "RMX5061",
+        "ProductName": "RMX5061RU",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "MEA",
+        "ProductModel": "RMX5061",
+        "ProductName": "RMX5061",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "SA",
+        "ProductModel": "RMX5061",
+        "ProductName": "RMX5061",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "IN",
+        "ProductModel": "RMX5061",
+        "ProductName": "RMX5061IN",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 2,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "RMX5061",
+        "ProductName": "RMX5061EEA",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "TH",
+        "ProductModel": "RMX5061",
+        "ProductName": "RMX5061",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "LATAM",
+        "ProductModel": "RMX5061",
+        "ProductName": "RMX5061",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "BR",
+        "ProductModel": "RMX5061",
+        "ProductName": "RMX5061",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme GT7",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX6688",
+        "ProductName": "RMX6688",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme GT7 Pro Racing Edition",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX5090",
+        "ProductName": "RMX5090",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme GT7 Pro",
+    "Models": [
+      {
+        "Region": "TR",
+        "ProductModel": "RMX5011",
+        "ProductName": "RMX5011TR",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "RU",
+        "ProductModel": "RMX5011",
+        "ProductName": "RMX5011RU",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "MEA",
+        "ProductModel": "RMX5011",
+        "ProductName": "RMX5011",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "SA",
+        "ProductModel": "RMX5011",
+        "ProductName": "RMX5011",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "IN",
+        "ProductModel": "RMX5011",
+        "ProductName": "RMX5011IN",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 2,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "RMX5011",
+        "ProductName": "RMX5011EEA",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "taste",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "TH",
+        "ProductModel": "RMX5011",
+        "ProductName": "RMX5011",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "LATAM",
+        "ProductModel": "RMX5011",
+        "ProductName": "RMX5011",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "BR",
+        "ProductModel": "RMX5011",
+        "ProductName": "RMX5011",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "RMX5010",
+        "ProductName": "RMX5010",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme GT6",
+    "Models": [
+      {
+        "Region": "TR",
+        "ProductModel": "RMX3851",
+        "ProductName": "RMX3851TR",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "RU",
+        "ProductModel": "RMX3851",
+        "ProductName": "RMX3851RU",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "MEA",
+        "ProductModel": "RMX3851",
+        "ProductName": "RMX3851",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "SA",
+        "ProductModel": "RMX3851",
+        "ProductName": "RMX3851",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "IN",
+        "ProductModel": "RMX3851",
+        "ProductName": "RMX3851",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 2,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "RMX3851",
+        "ProductName": "RMX3851EEA",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "TH",
+        "ProductModel": "RMX3851",
+        "ProductName": "RMX3851",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "LATAM",
+        "ProductModel": "RMX3851",
+        "ProductName": "RMX3851",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "BR",
+        "ProductModel": "RMX3851",
+        "ProductName": "RMX3851",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3852",
+        "ProductName": "RMX3852",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3800",
+        "ProductName": "RMX3800",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme GT6T/6SE",
+    "Models": [
+      {
+        "Region": "TR",
+        "ProductModel": "RMX3853",
+        "ProductName": "RMX3853TR",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "RU",
+        "ProductModel": "RMX3853",
+        "ProductName": "RMX3853RU",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 2,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "MEA",
+        "ProductModel": "RMX3853",
+        "ProductName": "RMX3853",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "SA",
+        "ProductModel": "RMX3853",
+        "ProductName": "RMX3853",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "IN",
+        "ProductModel": "RMX3853",
+        "ProductName": "RMX3853IN",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 2,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "RMX3853",
+        "ProductName": "RMX3853EEA",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "TH",
+        "ProductModel": "RMX3853",
+        "ProductName": "RMX3853",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "LATAM",
+        "ProductModel": "RMX3853",
+        "ProductName": "RMX3853",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "BR",
+        "ProductModel": "RMX3853",
+        "ProductName": "RMX3853",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3850",
+        "ProductName": "RMX3850",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "GT5 Pro",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3888",
+        "ProductName": "RMX3888",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme GT5",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3820",
+        "ProductName": "RMX3820",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3823",
+        "ProductName": "RMX3823",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme GT3/Neo5",
+    "Models": [
+      {
+        "Region": "TR",
+        "ProductModel": "RMX3709",
+        "ProductName": "RMX3709TR",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "RU",
+        "ProductModel": "RMX3709",
+        "ProductName": "RMX3709RU",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "MEA",
+        "ProductModel": "RMX3709",
+        "ProductName": "RMX3709EX",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "SA",
+        "ProductModel": "RMX3709",
+        "ProductName": "RMX3709EX",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3706",
+        "ProductName": "RMX3706",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3708",
+        "ProductName": "RMX3708",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme GT Neo5 SE",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3700",
+        "ProductName": "RMX3700",
+        "OtaVersion": "H",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "MEA",
+        "ProductModel": "RMX3701",
+        "ProductName": "RMX3701",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "GT Neo 2",
+    "Models": [
+      {
+        "Region": "TR",
+        "ProductModel": "RMX3370",
+        "ProductName": "RMX3370TR",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "RU",
+        "ProductModel": "RMX3370",
+        "ProductName": "RMX3370RU",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "MEA/SA",
+        "ProductModel": "RMX3370",
+        "ProductName": "RMX3370",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3370",
+        "ProductName": "RMX3370",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme 14 Pro\u002B",
+    "Models": [
+      {
+        "Region": "TR",
+        "ProductModel": "RMX5051",
+        "ProductName": "RMX5051TR",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "RU",
+        "ProductModel": "RMX5051",
+        "ProductName": "RMX5051RU",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "MEA",
+        "ProductModel": "RMX5051",
+        "ProductName": "RMX5051",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "SA",
+        "ProductModel": "RMX5051",
+        "ProductName": "RMX5051",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "IN",
+        "ProductModel": "RMX5051",
+        "ProductName": "RMX5051IN",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 2,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "EU",
+        "ProductModel": "RMX5051",
+        "ProductName": "RMX5051EEA",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "TH",
+        "ProductModel": "RMX5051",
+        "ProductName": "RMX5051",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "LATAM",
+        "ProductModel": "RMX5051",
+        "ProductName": "RMX5051",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "BR",
+        "ProductModel": "RMX5051",
+        "ProductName": "RMX5051",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 0,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "RMX5050",
+        "ProductName": "RMX5050",
+        "OtaVersion": "F",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 1,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme 14 Pro",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX5055",
+        "ProductName": "RMX5055",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme 14",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX5075",
+        "ProductName": "RMX5075",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme 13 Pro\u002B",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3920",
+        "ProductName": "RMX3920",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme 13 Pro Extreme Edition",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3989",
+        "ProductName": "RMX3989",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme 13 Pro",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX5002",
+        "ProductName": "RMX5002",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme 13",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3952",
+        "ProductName": "RMX3952",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme 12 Pro\u002B",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3841",
+        "ProductName": "RMX3841",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme 12 Pro",
+    "Models": [
+      {
+        "Region": "IN",
+        "ProductModel": "RMX3842",
+        "ProductName": "RMX3842IN",
+        "OtaVersion": "C",
+        "Mode": 0,
+        "Server": 2,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      },
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3843",
+        "ProductName": "RMX3843",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme 12x",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3993",
+        "ProductName": "RMX3993",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme 12",
+    "Models": [
+      {
+        "Region": "CN",
+        "ProductModel": "RMX3992",
+        "ProductName": "RMX3992",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 1,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  },
+  {
+    "DeviceTitle": "Realme 15",
+    "Models": [
+      {
+        "Region": "RU",
+        "ProductModel": "RMX5111",
+        "ProductName": "RMX5111RU",
+        "OtaVersion": "A",
+        "Mode": 0,
+        "Server": 3,
+        "Gray": 0,
+        "ReqMode": "manual",
+        "Imei": "",
+        "Proxy": ""
+      }
+    ]
+  }
+]

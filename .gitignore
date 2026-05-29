@@ -1,0 +1,26 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+
+# Editor / OS cruft
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# External tooling binaries
+payload-dumper-go
+payload-dumper-go.exe
+
+# Firmware data — large binaries, never commit
+*.zip
+*.bin
+*.img
+downloads/
+firmware/
