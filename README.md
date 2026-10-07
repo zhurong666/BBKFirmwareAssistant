@@ -35,6 +35,8 @@ cd BBKFirmwareAssistant
 python3 -m venv .venv
 source .venv/bin/activate # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+$env:PATH += ";D:\BBKFirmwareAssistant\plagin"
+$env:PATH += ";D:\BBKFirmwareAssistant\plagin\platform-tools"
 ```
 
 Install the external tools for your platform, e.g. on Debian/Ubuntu:
